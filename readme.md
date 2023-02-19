@@ -7,6 +7,10 @@ Recently, I have come into the bad habit of mindlessly watching a lot of YouTube
 The purpose of this side project is to try and "swat" YouTube away. If it comes on screen due to a brief lapse, **swat** it down.
 
 # YouTube Swatter
+
+IF YOU WANT TO TRAIN YOUR OWN, USE THIS:
+https://github.com/james-salafatinos/Youtube-Swatter-Train
+
 To use, run this in your terminal with Python 3.7
 ```
 py ./predict.py
